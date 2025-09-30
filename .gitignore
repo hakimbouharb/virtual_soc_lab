@@ -1,3 +1,5 @@
+# Ignore Suricata rules with secrets
 single-node/suricata/rules/emerging-malware.rules
+
+# Ignore Wazuh SSL certificates
 single-node/config/wazuh_indexer_ssl_certs/
-single-node/suricata/rules/emerging-malware.rules
