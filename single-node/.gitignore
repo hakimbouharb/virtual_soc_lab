@@ -1,0 +1,2 @@
+single-node/suricata/rules/emerging-malware.rules
+single-node/config/wazuh_indexer_ssl_certs/
